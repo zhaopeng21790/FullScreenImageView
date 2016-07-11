@@ -1,0 +1,6 @@
+
+target ‘ImageDemo’ do
+
+pod ‘SDWebImage’
+
+end
